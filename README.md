@@ -35,3 +35,4 @@ O uso da API deve respeitar os termos e as condições de licença do TMDB. Para
 - geração de conteúdo com IA
 - painel do Jurassicast
 - integração com Instagram
+Fase 1 - API de filmes do Jurassicast
